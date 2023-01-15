@@ -8,6 +8,13 @@ export const galleryItems = [
   },
   {
     preview:
+      'https://cdn.pixabay.com/photo/2022/04/19/09/44/ukraine-7142472_640.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/04/19/09/44/ukraine-7142472_1280.jpg',
+    description: 'Stop The War In Ukraine',
+  },
+  {
+    preview:
       'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
     original:
       'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
@@ -61,5 +68,19 @@ export const galleryItems = [
     original:
       'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
     description: 'Lighthouse Coast Sea',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2020/05/22/22/03/forest-5207337_640.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2020/05/22/22/03/forest-5207337_1280.jpg',
+    description: 'Forest spring leaves',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2018/10/07/00/46/surfer-3729052_640.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2018/10/07/00/46/surfer-3729052_1280.jpg',
+    description: 'Surfer sea waves surf',
   },
 ];
